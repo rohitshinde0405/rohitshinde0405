@@ -1,3 +1,21 @@
+
+
+
+
+
+
+
+<p align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" /> </p>
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Rohit Shinde</h1>
 <h3 align="center">A passionate .NET developer from Pune.</h3>
 
