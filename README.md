@@ -1,21 +1,5 @@
 
-
-
-
-
-
-
 <p align="center"> <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="1000" height="200" /> </p>
-
-
-
-
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Rohit Shinde</h1>
 <h3 align="center">A passionate .NET developer from Pune.</h3>
 
